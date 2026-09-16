@@ -1,0 +1,7 @@
+method,future_auprc_mean,future_auprc_sd,sensitivity_mean,false_alarms_per_hour_mean,false_alarms_per_hour_sd,backward_transfer_mean,backward_transfer_sd
+static,0.130025,0.058027,1.0,1.559018,0.036042,0.0,0.0
+finetune,0.111394,0.064993,1.0,1.65408,0.072475,0.010282,0.02105
+random_replay,0.103134,0.052297,1.0,1.616055,0.0,0.019137,0.013701
+connectivity_diverse_replay,0.102085,0.046569,1.0,1.616055,0.0,0.018618,0.027776
+state_kg_replay,0.092836,0.046219,1.0,1.616055,0.0,-0.004425,0.016347
+temporal_kg_replay,0.095194,0.04821,1.0,1.616055,0.0,-0.004013,0.014628

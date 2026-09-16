@@ -1,0 +1,4 @@
+method,future_auprc_mean,future_auprc_sd,brier_mean,brier_sd,sensitivity_mean,sensitivity_sd,false_alarms_per_hour_mean,false_alarms_per_hour_sd
+gnn_only,0.130025,0.058027,0.313618,0.030051,1.0,0.0,1.544758,0.055735
+kg_state_guided,0.10017,0.012115,0.549811,0.053267,1.0,0.0,1.535252,0.052068
+kg_temporal_guided,0.117821,0.03475,0.582479,0.039024,1.0,0.0,1.568524,0.029107

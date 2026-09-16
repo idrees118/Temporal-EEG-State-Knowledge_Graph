@@ -1,0 +1,5 @@
+patient,train_preictal,train_interictal,future_seizures,future_clean_hours
+chb06,1555,9676,4,11.011111
+chb09,480,12447,2,30.954167
+chb10,479,17143,4,0.1125
+Total,2514,39266,10,42.077778

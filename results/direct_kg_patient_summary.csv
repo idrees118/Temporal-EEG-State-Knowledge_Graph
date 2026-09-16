@@ -1,0 +1,10 @@
+patient,method,future_auprc_mean,future_auprc_sd
+chb06,gnn_only,0.134087,0.005863
+chb06,kg_state_guided,0.137849,0.009372
+chb06,kg_temporal_guided,0.177031,0.064291
+chb09,gnn_only,0.030143,0.005152
+chb09,kg_state_guided,0.029004,0.001786
+chb09,kg_temporal_guided,0.029377,0.001646
+chb10,gnn_only,0.9505,0.00195
+chb10,kg_state_guided,0.959815,0.001238
+chb10,kg_temporal_guided,0.961291,0.001152
