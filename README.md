@@ -18,10 +18,6 @@
 
 <br>
 
-**Muhammad Idrees and Adnan Amin**
-
-Institute of Management Sciences, Peshawar, Pakistan
-
 </div>
 
 ---
@@ -1037,8 +1033,6 @@ Publication information can be added here once available.
 
 # 👨‍💻 Authors
 
-### Muhammad Idrees
-
 **Research interests**
 
 - Machine learning
@@ -1054,10 +1048,6 @@ Peshawar, Pakistan
 
 ---
 
-### Adnan Amin
-
-Institute of Management Sciences  
-Peshawar, Pakistan
 
 ---
 
