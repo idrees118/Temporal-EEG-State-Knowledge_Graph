@@ -18,7 +18,7 @@
 
 <br>
 
-**Muhammad Idrees · Adnan Amin**
+**Muhammad Idrees and Adnan Amin**
 
 Institute of Management Sciences, Peshawar, Pakistan
 
@@ -117,7 +117,7 @@ We therefore created a **patient-specific temporal EEG state knowledge graph**.
 
 ---
 
-# 🔬 Full Experimental Pipeline
+#  Full Experimental Pipeline
 
 ```text
                     CHB-MIT EEG
